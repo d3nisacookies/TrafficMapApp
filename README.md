@@ -1,0 +1,1 @@
+for the backend, try running "python app.py" in a terminal and test it with postman ( it works in my device ) i havent found a way to connect it to the android studio app but i will try in the future 
